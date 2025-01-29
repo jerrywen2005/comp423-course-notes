@@ -79,8 +79,8 @@ Connecting your local repository to a remote GitHub repository allows for collab
 
 A **dev container** is an isolated environment optimized for software development. We will use VS Code's Dev Containers extension with Docker to create a consistent workspace.
 
-#### **Why Use Dev Containers?**
-They streamline onboarding and ensure that every team member works in an identical environment with the required dependencies pre-configured.
+!!! question "Why Use Dev Containers?"
+    They streamline onboarding and ensure that every team member works in an identical environment with the required dependencies pre-configured.
 
 #### **Steps to Configure the Dev Container**
 
